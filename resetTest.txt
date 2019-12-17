@@ -1,5 +1,5 @@
 Git Reset Test
 Git Branch Test
 And Merge..
-git conflict Test...
 
+git conflict Test..
