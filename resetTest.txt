@@ -1,2 +1,5 @@
 Git Reset Test
-Revert Test
+Git Branch Test
+And Merge..
+git conflict Test...
+
